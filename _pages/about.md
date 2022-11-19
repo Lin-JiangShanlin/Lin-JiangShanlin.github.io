@@ -21,7 +21,13 @@ I am currently doing my master's program at College of Computer Science, Sichuan
 * Applications in Industrial Intelligence, Transportation, and New Energy Problem.
 
 ### Journal Publications
+<img align="right" src="{{ base_path }}/images/publications/JSL2022.png"/>
+**A Multi-Scenario Optimization Evolutionary Algorithm Based on Transfer Framework**
+Shanlin Jiang, Gary G. Yen, and Zhenan He
+IEEE Transactions on Evolutionary Computation
+[paper](https://ieeexplore.ieee.org/document/9910596)
 <!-- S. Jiang, G. G. Yen, and Z. He, “A Multi-Scenario Optimization Evolutionary Algorithm Based on Transfer Framework,” in IEEE Transactions on Evolutionary Computation, early access, 2022, doi: 10.1109/TEVC.2022.3211643. -->
+
 <!-- <style>
 /* a { text-decoration : none; } */
 /* a:hover { text-decoration : underline; } */
@@ -31,7 +37,7 @@ I am currently doing my master's program at College of Computer Science, Sichuan
 table td{ border:none; }
 table strong a { color : #0050e7; }
 table { border-collapse: collapse; border-style: hidden; font-size: 1em}
-</style> -->
+</style>
 <div>
   <table style="width: 100%;">
     <tbody>
@@ -61,7 +67,7 @@ table { border-collapse: collapse; border-style: hidden; font-size: 1em}
     </tbody>
   </table>
 </div>
-
+ -->
 
 ### For more information
 More info about Jiang Shanlin can be found in [CV](http://lin-jiangshanlin.github.io/files/Curriculum_Vitae-Jiangshanlin.pdf).
