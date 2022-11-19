@@ -20,14 +20,11 @@ I am currently doing my master's program at College of Computer Science, Sichuan
 * Exact methods, Metaheuristics, and Hybrid Algorithm.
 * Applications in Industrial Intelligence, Transportation, and New Energy Problem.
 
-<br/>
 **Journal Publications**
-
 S. Jiang, G. G. Yen, and Z. He, “A Multi-Scenario Optimization Evolutionary Algorithm Based on Transfer Framework,” in IEEE Transactions on Evolutionary Computation, early access, 2022, doi: 10.1109/TEVC.2022.3211643.
 
 
-**For more information**
-  
+**For more information** 
 More info about Jiang Shanlin can be found in <a href="[https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235](http://lin-jiangshanlin.github.io/files/Curriculum Vitae-Jiangshanlin.pdf)" target="_blank">CV</a>.
   
 <!--   [CV](http://lin-jiangshanlin.github.io/files/Curriculum Vitae-Jiangshanlin.pdf). -->
