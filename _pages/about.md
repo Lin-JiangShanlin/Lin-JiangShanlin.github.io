@@ -11,7 +11,7 @@ redirect_from:
 <!-- ## A short introduction -->
 <p style="text-align:justify;"> 
 I am currently doing my master's program at College of Computer Science, Sichuan University, where I was fortunate to be advised by Professor <a href="https://kaminzzz.github.io/" target="_blank">Zhenan He</a>. My main research area during the master study including multi-objective optimization problem under uncertainty and evolutionary computation, in which I have published one paper in the leading journals <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235" target="_blank">IEEE TEVC</a>.
-<\p>
+</p>
 
 <br/>
 
