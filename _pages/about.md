@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jiang Shanlin"
+title: "A short introduction"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## A short introduction
+<!-- ## A short introduction -->
 I am currently doing my master's program at College of Computer Science, Sichuan University, where I was fortunate to be advised by Professor [Zhenan He](https://kaminzzz.github.io/). My main research area during the master study including multi-objective optimization problem under uncertainty and evolutionary computation, in which I have published one paper in the leading journals *IEEE TEVC*.
 
 research interests including three parts, 1) the modeling method for translating real-world problem into subtle problem structure, i.e., mixed integer programming. 2) the algorithms designed for effectively solving the constructed problem with hybrid algorithms, which combine exact methods and metaheuristics. 3) the applications in transportation systems and new energy problem.
