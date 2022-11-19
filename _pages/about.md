@@ -22,16 +22,43 @@ I am currently doing my master's program at College of Computer Science, Sichuan
 
 ### Journal Publications
 <!-- <img align="left" src="https://github.com/Lin-JiangShanlin/Lin-JiangShanlin.github.io/images/publications/JSL2022.png"/> -->
-
+<!-- 
 **A Multi-Scenario Optimization Evolutionary Algorithm Based on Transfer Framework**
 
 Shanlin Jiang, [Gary G. Yen](https://experts.okstate.edu/gyen), and Zhenan He
 
 IEEE Transactions on Evolutionary Computation
 
-[paper](https://ieeexplore.ieee.org/document/9910596)
+[paper](https://ieeexplore.ieee.org/document/9910596) -->
 
-<!-- S. Jiang, G. G. Yen, and Z. He, “A Multi-Scenario Optimization Evolutionary Algorithm Based on Transfer Framework,” in IEEE Transactions on Evolutionary Computation, early access, 2022, doi: 10.1109/TEVC.2022.3211643. -->
+  <table style="width: 100%;">
+    <tbody>
+
+      <tr>
+        <td style="width: 30%;">
+          <img src="{{ base_path }}/images/publications/JSL2022.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                A Multi-Scenario Optimization Evolutionary Algorithm Based on Transfer Framework
+              </span>
+            </strong>
+            <br> Shanlin Jiang, Gary G. Yen, and <b>Zhenan He*</b> <br>
+            <em>IEEE Transactions on Evolutionary Computation,</em> 2022 <br>
+            <span class="links">
+              <a href="https://ieeexplore.ieee.org/document/9910596">Paper</a>
+<!--               <a href="https://github.com/VisionLearningGroup/Ask_Attend_and_Answer">Code</a>
+              <a href="https://www.youtube.com/embed/FjpRwVKYJQ8?rel=0">Video spotlight</a> -->
+            </span>
+          </p>
+        </td>
+      </tr>
+      
+    </tbody>
+  </table>
+
 
 
 
