@@ -30,8 +30,7 @@ Shanlin Jiang, [Gary G. Yen](https://experts.okstate.edu/gyen), and Zhenan He
 IEEE Transactions on Evolutionary Computation -->
 
 S. Jiang, G. G. Yen, and Z. He, “A Multi-Scenario Optimization Evolutionary Algorithm Based on Transfer Framework,” in IEEE Transactions on Evolutionary Computation, early access, 2022, doi: 10.1109/TEVC.2022.3211643.
-
-[paper](https://ieeexplore.ieee.org/document/9910596)
+[[paper](https://ieeexplore.ieee.org/document/9910596)]
 
 ### For more information
 More info about Jiang Shanlin can be found in [CV](http://lin-jiangshanlin.github.io/files/Curriculum_Vitae-Jiangshanlin.pdf).
