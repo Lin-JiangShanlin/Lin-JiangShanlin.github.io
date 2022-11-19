@@ -25,6 +25,4 @@ S. Jiang, G. G. Yen, and Z. He, “A Multi-Scenario Optimization Evolutionary Al
 
 
 ### For more information
-More info about Jiang Shanlin can be found in <a href="[https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235](http://lin-jiangshanlin.github.io/files/Curriculum Vitae-Jiangshanlin.pdf)" target="_blank">CV</a>.
-  
-<!--   [CV](http://lin-jiangshanlin.github.io/files/Curriculum Vitae-Jiangshanlin.pdf). -->
+More info about Jiang Shanlin can be found in [CV](http://lin-jiangshanlin.github.io/files/Curriculum Vitae-Jiangshanlin.pdf).
