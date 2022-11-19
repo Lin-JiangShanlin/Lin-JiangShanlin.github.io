@@ -11,7 +11,7 @@ title                    : "Jiang Shanlin"
 title_separator          : "-"
 name                     : &name "Jiang Shanlin"
 description              : &description "Researcher"
-url                      : https://lin-jiangshanlin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Lin-JiangShanlin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Lin-JiangShanlin.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,13 +82,13 @@ analytics:
 author: 
   name             : "Jiang Shanlin"
   avatar           : "profile.jpg"
-  bio              : "Master student at College of Computer Science, Sichuan University"
+  bio              : "Master Student at College of Computer Science, Sichuan University"
   location         : "Chengdu, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"https://scholar.google.com/citations?user=4iVouPYAAAAJ&hl=en"
+  googlescholar    : #"https://scholar.google.com/citations?user=hezhenan"
   email            : "lin.jiangshanlin@gmail.com"
-  researchgate     : #"https://www.researchgate.net/profile/Ze_Jiang3"
+  researchgate     : #"https://www.researchgate.net/profile/hezhenan"
   publons          : #"https://publons.com/researcher/3963266/ze-jiang/"
   uri              : 
   bitbucket        :
@@ -103,18 +103,18 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : #"zejiang"
+  linkedin         : #"hezhenan"
   orcid            : "https://orcid.org/0000-0002-1382-1460"
   pinterest        :
   soundcloud       :
   stackoverflow    : #"http://stackoverflow.com/users/123456/username"
   steam            :
   tumblr           :
-  twitter          : #"ZeJiang3"
+  twitter          : #"HeZhenan"
   vine             :
   weibo            :
   xing             :
-  youtube          : #"UCDgVmJEzD5czbTlTdVVewKA"
+  youtube          : #"bianhao"
   wikipedia        :
       
 # Reading Files
