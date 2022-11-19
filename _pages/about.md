@@ -21,7 +21,8 @@ I am currently doing my master's program at College of Computer Science, Sichuan
 * Applications in Industrial Intelligence, Transportation, and New Energy Problem.
 
 ### Journal Publications
-S. Jiang, G. G. Yen, and Z. He, “A Multi-Scenario Optimization Evolutionary Algorithm Based on Transfer Framework,” in IEEE Transactions on Evolutionary Computation, early access, 2022, doi: 10.1109/TEVC.2022.3211643.
+<!-- S. Jiang, G. G. Yen, and Z. He, “A Multi-Scenario Optimization Evolutionary Algorithm Based on Transfer Framework,” in IEEE Transactions on Evolutionary Computation, early access, 2022, doi: 10.1109/TEVC.2022.3211643. -->
+{% include publications.html %}
 
 
 ### For more information
