@@ -31,9 +31,6 @@ IEEE Transactions on Evolutionary Computation
 
 [paper](https://ieeexplore.ieee.org/document/9910596) -->
 
-  <table style="width: 100%;">
-    <tbody>
-
       <tr>
         <td style="width: 30%;">
           <img src="{{ base_path }}/images/publications/JSL2022.png" />
@@ -55,9 +52,7 @@ IEEE Transactions on Evolutionary Computation
           </p>
         </td>
       </tr>
-      
-    </tbody>
-  </table>
+
 
 
 
