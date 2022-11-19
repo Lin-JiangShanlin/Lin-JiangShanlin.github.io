@@ -22,7 +22,7 @@ I am currently doing my master's program at College of Computer Science, Sichuan
 
 ### Journal Publications
 <!-- S. Jiang, G. G. Yen, and Z. He, “A Multi-Scenario Optimization Evolutionary Algorithm Based on Transfer Framework,” in IEEE Transactions on Evolutionary Computation, early access, 2022, doi: 10.1109/TEVC.2022.3211643. -->
-<style>
+<!-- <style>
 /* a { text-decoration : none; } */
 /* a:hover { text-decoration : underline; } */
 /* a, a:visited { color : #0050e7; } */
@@ -31,8 +31,7 @@ I am currently doing my master's program at College of Computer Science, Sichuan
 table td{ border:none; }
 table strong a { color : #0050e7; }
 table { border-collapse: collapse; border-style: hidden; font-size: 1em}
-</style>
-
+</style> -->
 <div>
   <table style="width: 100%;">
     <tbody>
