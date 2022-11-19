@@ -10,12 +10,12 @@ redirect_from:
 
 <!-- ## A short introduction -->
 <p style="text-align:justify;"> 
-I am currently doing my master's program at College of Computer Science, Sichuan University, where I was fortunate to be advised by Professor [Zhenan He](https://kaminzzz.github.io/). My main research area during the master study including multi-objective optimization problem under uncertainty and evolutionary computation, in which I have published one paper in the leading journals *IEEE TEVC*.
+I am currently doing my master's program at College of Computer Science, Sichuan University, where I was fortunate to be advised by Professor [Zhenan He](https://kaminzzz.github.io/). My main research area during the master study including multi-objective optimization problem under uncertainty and evolutionary computation, in which I have published one paper in the leading journals [IEEE TEVC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235).
 <\p>
 
-<br>
+<br/>
 
-<b>Research Interests:</b>
+## Research Interests:
 * Modeling method for translating real-world problem into subtle problem structure, i.e., mixed integer programming.
 * Exact methods, Metaheuristics, and Hybrid Algorithm.
 * Applications in Industrial Intelligence, Transportation, and New Energy Problem.
