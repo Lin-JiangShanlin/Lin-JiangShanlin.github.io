@@ -22,9 +22,13 @@ I am currently doing my master's program at College of Computer Science, Sichuan
 
 ### Journal Publications
 <img align="left" src="https://github.com/Lin-JiangShanlin/Lin-JiangShanlin.github.io/images/publications/JSL2022.png"/>
+
 **A Multi-Scenario Optimization Evolutionary Algorithm Based on Transfer Framework**
+
 Shanlin Jiang, Gary G. Yen, and Zhenan He
+
 IEEE Transactions on Evolutionary Computation
+
 [paper](https://ieeexplore.ieee.org/document/9910596)
 
 <!-- S. Jiang, G. G. Yen, and Z. He, “A Multi-Scenario Optimization Evolutionary Algorithm Based on Transfer Framework,” in IEEE Transactions on Evolutionary Computation, early access, 2022, doi: 10.1109/TEVC.2022.3211643. -->
