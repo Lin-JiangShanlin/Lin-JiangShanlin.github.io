@@ -15,6 +15,10 @@ I am currently doing my master's program at College of Computer Science, Sichuan
 
 <br/>
 
+### Education
+* Bachelor of Management, Business School, Sichuan University, 2016-2020
+* Master of Computer Science, College of Computer Science, Sichuan University, 2020-present
+
 ### Research Interests
 * Modeling method for translating real-world problem into subtle problem structure, i.e., mixed integer programming.
 * Exact methods, Metaheuristics, and Hybrid Algorithm.
@@ -32,5 +36,14 @@ IEEE Transactions on Evolutionary Computation -->
 S. Jiang, G. G. Yen, and Z. He, “A Multi-Scenario Optimization Evolutionary Algorithm Based on Transfer Framework,” in IEEE Transactions on Evolutionary Computation, early access, 2022, doi: 10.1109/TEVC.2022.3211643.
 [[paper](https://ieeexplore.ieee.org/document/9910596)]
 
-### For more information
+### Work Experience
+#### Teaching Assistant
++ *Evolutionary Computation and Multiobjective Optimization*, Professor Gary G. Yen, 2022 Summer, Sichuan University
++ *Matrix Analysis*, Professor Zhenan He, 2021 Fall, Sichuan University
++ *Evolutionary Computation and Multiobjective Optimization*, Professor Gary G. Yen, 2021 Summer, Sichuan University
+
+#### Internship
++ Hipac, Data Analyst, 2019 Summer
+
+### For More Information
 More info about Jiang Shanlin can be found in [CV](http://lin-jiangshanlin.github.io/files/Curriculum_Vitae-Jiangshanlin.pdf).
