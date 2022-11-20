@@ -25,17 +25,17 @@ I am currently doing my master's program at College of Computer Science, Sichuan
 * Applications in Industrial Intelligence, Transportation, and New Energy Problem.
 
 ### Journal Publications
-<img align="left" src="https://github.com/Lin-JiangShanlin/Lin-JiangShanlin.github.io/blob/master/images/publications/JSL2022.png?raw=true"/>
+<!-- <img align="left" src="https://github.com/Lin-JiangShanlin/Lin-JiangShanlin.github.io/blob/master/images/publications/JSL2022.png?raw=true"/>
 
 **A Multi-Scenario Optimization Evolutionary Algorithm Based on Transfer Framework**
 
 Shanlin Jiang, [Gary G. Yen](https://experts.okstate.edu/gyen), and Zhenan He
 
-IEEE Transactions on Evolutionary Computation
+IEEE Transactions on Evolutionary Computation -->
 
-<!-- S. Jiang, G. G. Yen, and Z. He, “A Multi-Scenario Optimization Evolutionary Algorithm Based on Transfer Framework,” in IEEE Transactions on Evolutionary Computation, early access, 2022, doi: 10.1109/TEVC.2022.3211643.
+S. Jiang, G. G. Yen, and Z. He, “A Multi-Scenario Optimization Evolutionary Algorithm Based on Transfer Framework,” in IEEE Transactions on Evolutionary Computation, early access, 2022, doi: 10.1109/TEVC.2022.3211643.
 [[paper](https://ieeexplore.ieee.org/document/9910596)]
-![JSL2022](https://github.com/Lin-JiangShanlin/Lin-JiangShanlin.github.io/blob/master/images/publications/JSL2022.png?raw=true) -->
+![JSL2022](https://github.com/Lin-JiangShanlin/Lin-JiangShanlin.github.io/blob/master/images/publications/JSL2022.png?raw=true)
 
 ### Work Experience
 **Teaching Assistant**
