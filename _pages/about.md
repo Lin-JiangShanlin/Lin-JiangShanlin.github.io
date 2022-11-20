@@ -37,12 +37,12 @@ S. Jiang, G. G. Yen, and Z. He, “A Multi-Scenario Optimization Evolutionary Al
 [[paper](https://ieeexplore.ieee.org/document/9910596)]
 
 ### Work Experience
-#### Teaching Assistant
+**Teaching Assistant**
 + *Evolutionary Computation and Multiobjective Optimization*, Professor Gary G. Yen, 2022 Summer, Sichuan University
 + *Matrix Analysis*, Professor Zhenan He, 2021 Fall, Sichuan University
 + *Evolutionary Computation and Multiobjective Optimization*, Professor Gary G. Yen, 2021 Summer, Sichuan University
 
-#### Internship
+**Internship**
 + Hipac, Data Analyst, 2019 Summer
 
 ### For More Information
