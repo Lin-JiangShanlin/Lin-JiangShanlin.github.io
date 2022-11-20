@@ -35,6 +35,7 @@ IEEE Transactions on Evolutionary Computation -->
 
 S. Jiang, G. G. Yen, and Z. He, “A Multi-Scenario Optimization Evolutionary Algorithm Based on Transfer Framework,” in IEEE Transactions on Evolutionary Computation, early access, 2022, doi: 10.1109/TEVC.2022.3211643.
 [[paper](https://ieeexplore.ieee.org/document/9910596)]
+![JSL2022](https://github.com/Lin-JiangShanlin/Lin-JiangShanlin.github.io/blob/master/images/publications/JSL2022.png?raw=true)
 
 ### Work Experience
 **Teaching Assistant**
